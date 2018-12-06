@@ -1,4 +1,5 @@
 **PDF Encryptor Commandline Application**
+
 Simple java command line application that encrypts a pdf file with given password.
  - Requires Java 7 or later 
  - To compile: `mvn clean install` or download binary from releases
